@@ -1,0 +1,2 @@
+javac --module-path "C:\javafx-sdk-21\lib" --add-modules javafx.controls,javafx.web DisasterCommApp.java
+java --module-path "C:\javafx-sdk-21\lib" --add-modules javafx.controls,javafx.web DisasterCommApp
